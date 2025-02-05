@@ -1,4 +1,4 @@
-<h1>osTicket Lab 4: Ticket Creation & Resolution</h1>
+<h1>osTicket Lab 3: Ticket Creation & Resolution</h1>
 
 <h2>Project Summary</h2>
 <p>
