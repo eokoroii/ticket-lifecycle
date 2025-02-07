@@ -35,7 +35,7 @@
     under <em>Agents &gt; Departments</em>, simplifying our department structure. 
     <br /><br />
     <p align="center">
-      <img src="https://via.placeholder.com/600x350.png?text=Archiving+Dept" alt="Archiving department" width="600" />
+      <img src="https://i.imgur.com/gPRCc87.png" alt="Archiving department" width="600" />
       <br />
       <em>Figure 4.1 – Maintenance department set to ‘Archived.’</em>
     </p>
@@ -48,16 +48,27 @@
       <li><em>User Karen</em> logs into the End User portal, opens a new ticket 
           describing “mobile online banking is down,” but mistakenly picks <em>Report a Problem</em> 
           instead of <em>Business Critical Outage</em>.</li>
+          <p align="center">
+      <img src="https://i.imgur.com/Qx4PSiH.png" alt="Karen ticket" width="600" />
+    </p> <br />
       <li><em>Agent John</em> logs in and sees the new ticket. He changes SLA to <code>Sev-B</code>, 
           corrects the Help Topic, and assigns it to the <code>Online Banking</code> team.</li>
+        <p align="center">
+      <img src="https://i.imgur.com/Zq6O8kW.png" alt="John Agent" width="600" />
+      <img src="https://i.imgur.com/bE7NZEw.png" alt="John Agent" width="600" />
+      <br />
+    </p> 
       <li><em>Agent Jane</em> (member of Online Banking) reassigns the ticket to herself, 
           updates Karen with the fix, and resolves the ticket.</li>
-    </ul>
-    <p align="center">
-      <img src="https://via.placeholder.com/600x350.png?text=Ticket+Business+Outage" alt="Ticket details" width="600" />
+       <p align="center">
+      <img src="https://i.imgur.com/uNACsFj.png" alt="Jane agent" width="600" />
+      <img src="https://i.imgur.com/lGZoM21.png" alt="Jane agent" width="600" />
+      <br />
+      <img src="https://i.imgur.com/n0Ya0ka.png" alt="Ticket details" width="600" />
       <br />
       <em>Figure 4.2 – Observing the first ticket’s properties and reclassification.</em>
     </p>
+     </ul>
   </li>
   <br />
 
@@ -65,30 +76,45 @@
     <strong>Ticket Two: General Inquiry (Adobe Software Issue)</strong><br />
     <ul>
       <li><em>User Ken</em> opens a ticket labeled <em>General Inquiry</em> about the accounting department being unable to use Adobe software.</li>
+      <p align="center">
+      <img src="https://i.imgur.com/x8Skb7F.png" alt="User Ken" width="600" />
+      <br />
+     </p> 
       <li><em>Agent John</em> responds to request more info. Ken says only 2 people are affected, so John sets SLA to <code>Sev-C</code>. 
           Ken tries a system reboot, which fixes the issue. John documents that and closes the ticket.</li>
-    </ul>
+        <p align="center">
+      <img src="https://i.imgur.com/rG1CCVP.png" alt="Agent John" width="600" />
+      <br />
+     </p> 
     <p align="center">
-      <img src="https://via.placeholder.com/600x350.png?text=General+Inquiry+Ticket" alt="Adobe issue ticket" width="600" />
+      <img src="https://i.imgur.com/pvO220i.png" alt="Adobe issue ticket" width="600" />
       <br />
       <em>Figure 4.3 – Low-priority ticket with quick resolution.</em>
     </p>
   </li>
+      </ul>
   <br />
 
   <li>
     <strong>Ticket Three: Personal Computer Issue (CFO)</strong><br />
     <ul>
       <li><em>User Karen</em> opens another ticket about the CFO’s laptop not powering on, selecting <em>Personal Computer Issues</em>.</li>
+       <p align="center">
+      <img src="https://i.imgur.com/RARgivE.png" alt="Karen 2nd ticket" width="600" />
+    </p> <br />
       <li><em>Agent John</em> sees it’s for the CFO, sets priority to <em>Emergency</em> and SLA to <code>Sev-B</code>, 
           then assigns the ticket to himself. The root cause was a faulty charger, so once replaced, he resolves the ticket.</li>
-    </ul>
+     <p align="center">
+      <img src="https://i.imgur.com/fV3WRmq.png" alt="Agent John 2" width="600" />
+       <img src="https://i.imgur.com/DaJpnk7.png" alt="Agent John 2" width="600" />
+    </p> <br />
     <p align="center">
-      <img src="https://via.placeholder.com/600x350.png?text=Emergency+Laptop+Ticket" alt="Emergency CFO ticket" width="600" />
+      <img src="https://i.imgur.com/CyKqZxU.png" alt="Emergency CFO ticket" width="600" />
       <br />
       <em>Figure 4.4 – High-priority ticket assigned to John for quick turnaround.</em>
     </p>
   </li>
+  </ul>
   <br />
 
   <li>
@@ -97,7 +123,7 @@
     This confirms each scenario was properly documented and closed.
     <br /><br />
     <p align="center">
-      <img src="https://via.placeholder.com/600x350.png?text=Closed+Tickets+View" alt="Viewing closed tickets" width="600" />
+      <img src="https://i.imgur.com/tRSF6pQ.png" alt="Viewing closed tickets" width="600" />
       <br />
       <em>Figure 4.5 – Confirming all tickets have been resolved or closed.</em>
     </p>
